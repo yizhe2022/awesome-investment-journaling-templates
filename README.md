@@ -8,12 +8,13 @@ For a seamless, Notion-style journaling experience with advanced data analysis, 
 
 ---
 
-## 🛠️ Investment Templates
+## 🔧 Investment Templates
+
 | Template Name               | Purpose                                  | Link                          |
 | :-------------------------- | :--------------------------------------- | :---------------------------- |
-| **Investment Thesis Template** | Document your "Why" before buying.       | [Use on Stockxy](https://stockxy.com) |
-| **Weekly Portfolio Review**  | Analyze your performance and emotions.   | [Try Stockxy Journal](https://stockxy.com) |
-| **Post-Mortem Checklist**     | Learn from your losing trades.           | [Quick Entry on Stockxy](https://stockxy.com) |
+| Investment Thesis Template  | Document your "Why" before buying.       | [Use on Stockxy](https://stockxy.com) |
+| Weekly Portfolio Review     | Analyze your performance and emotions.   | [Try Stockxy Journal](https://stockxy.com) |
+| Post-Mortem Checklist       | Learn from your losing trades.           | [Quick Entry on Stockxy](https://stockxy.com) |
 
 ---
 
