@@ -33,6 +33,14 @@ We believe in a **Hypothesis-Driven Analysis** approach. Don't just look at data
 - **Data-Driven Insights:** Compare your exploratory analysis with your original hypothesis.
 
 ---
+
+## 📚 Related Resources
+
+| Resource | Description |
+|:---------|:-----------|
+| [Investment Principles Toolkit](https://github.com/henu-wang/investment-principles-toolkit) | Curated collection of investment principles, Python tools, journaling templates, and decision frameworks from Buffett, Munger, and more. |
+
+---
 ### 🔗 Connect
 - Website: [stockxy.com](https://stockxy.com)
 - Built by: [Maifii](https://github.com/yizhe2022)
